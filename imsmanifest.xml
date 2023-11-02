@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest identifier="_69f94aTKy4j" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+<manifest identifier="_6h6U3ND2HoW" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
   <metadata>
     <schema>ADL SCORM</schema>
     <schemaversion>1.2</schemaversion>
@@ -53,13 +53,13 @@
   <organizations default="EG.G6.ENG.SEM1.UB.T1.S2.2_ORG">
     <organization identifier="EG.G6.ENG.SEM1.UB.T1.S2.2_ORG">
       <title>EG.G6.ENG.SEM1.UB.T1.S2.2</title>
-      <item identifier="EG.G6.ENG.SEM1.UA.T1.S1.2_SCO" isvisible="true" identifierref="__69f94aTKy4j_RES">
+      <item identifier="EG.G6.ENG.SEM1.UA.T1.S1.2_SCO" isvisible="true" identifierref="__6h6U3ND2HoW_RES">
         <title>EG.G6.ENG.SEM1.UB.T1.S2.2</title>
       </item>
     </organization>
   </organizations>
   <resources>
-    <resource identifier="__69f94aTKy4j_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+    <resource identifier="__6h6U3ND2HoW_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
       <file href="story_content/thumbnail.jpg" />
       <file href="mobile/6I1tZTsMsTy.png" />
       <file href="mobile/61kVqVoCpO2.png" />
